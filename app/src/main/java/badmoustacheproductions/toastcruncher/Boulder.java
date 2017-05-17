@@ -28,6 +28,7 @@ public class Boulder extends GameObject {
             setWorldLocation(worldStartX, worldStartY, 1);
         }
     }
+    
 
     public void update(long fps, float gravity) {}
 }
